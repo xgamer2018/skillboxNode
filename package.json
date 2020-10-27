@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/xgamer2018/skillboxNode/issues"
   },
-  "homepage": "https://github.com/xgamer2018/skillboxNode#readme"
+  "homepage": "https://github.com/xgamer2018/skillboxNode#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.4.2"
+  }
 }
